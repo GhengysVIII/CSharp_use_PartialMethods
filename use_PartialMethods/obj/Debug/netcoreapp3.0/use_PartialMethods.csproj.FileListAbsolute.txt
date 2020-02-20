@@ -1,0 +1,11 @@
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\bin\Debug\netcoreapp3.0\use_PartialMethods.exe
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\bin\Debug\netcoreapp3.0\use_PartialMethods.deps.json
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\bin\Debug\netcoreapp3.0\use_PartialMethods.runtimeconfig.json
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\bin\Debug\netcoreapp3.0\use_PartialMethods.runtimeconfig.dev.json
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\bin\Debug\netcoreapp3.0\use_PartialMethods.dll
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\bin\Debug\netcoreapp3.0\use_PartialMethods.pdb
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\obj\Debug\netcoreapp3.0\use_PartialMethods.csprojAssemblyReference.cache
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\obj\Debug\netcoreapp3.0\use_PartialMethods.AssemblyInfoInputs.cache
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\obj\Debug\netcoreapp3.0\use_PartialMethods.AssemblyInfo.cs
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\obj\Debug\netcoreapp3.0\use_PartialMethods.dll
+C:\Users\THE-F\source\repos\use_PartialMethods\use_PartialMethods\obj\Debug\netcoreapp3.0\use_PartialMethods.pdb
